@@ -212,7 +212,7 @@
 			.image.fit
 			{
 				display: block;
-				width: 100%;
+				width: 80%;
 			}
 			
 			.image.left
@@ -224,9 +224,7 @@
 			.image.centered
 			{
                 display: block;
-                position: absolute;
-                right: 0px
-				
+				margin: 0 0 2em 0;
 			}
 
 				.image.centered img
