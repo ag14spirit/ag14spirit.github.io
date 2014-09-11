@@ -223,8 +223,10 @@
 			
 			.image.centered
 			{
-				display: block;
-				margin: 0 0 2em 0;
+                display: block;
+                position: absolute;
+                right: 0px
+				
 			}
 
 				.image.centered img
