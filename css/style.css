@@ -522,6 +522,8 @@
 				color: #3a3939;
 				background: #fff;
 				box-shadow: inset 0 0 0 1px #fff;
+                margin-left: auto;
+                margin-right: auto;
 			}
 
 				input[type="button"].style2:hover,
