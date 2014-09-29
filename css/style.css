@@ -78,6 +78,13 @@
 		font-size: 1em;
 		letter-spacing: 5px;
 	}
+
+    h4
+	{
+		font-size: .5em;
+		letter-spacing: 2px;
+        font-weight: 100;
+	}
 		
 	strong, b
 	{
