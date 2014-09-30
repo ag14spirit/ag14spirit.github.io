@@ -234,7 +234,8 @@
 			font-weight: 700;
 			text-transform: uppercase;
 			text-decoration: none;
-			background: #b1ddab;
+/*			background: #b1ddab;*/
+            background: #ddabab;
 			color: #fff;
 			border: 0;
 			line-height: 1em;
@@ -253,7 +254,8 @@
 			input[type="reset"]:hover,
 			.button:hover
 			{
-				background: #c1edbb;
+/*				background: #c1edbb;*/
+                background: #edbbbb;
 			}
 
 			input[type="button"]:active,
@@ -261,7 +263,8 @@
 			input[type="reset"]:active,
 			.button:active
 			{
-				background: #a1cd9b;
+/*				background: #a1cd9b;*/
+                background: #cd9b9b;
 			}
 		
 			input[type="button"].alt,

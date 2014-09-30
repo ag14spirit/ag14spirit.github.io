@@ -247,7 +247,8 @@
 		{
 			position: relative;
 			text-align: center;
-			border-top: solid 5px #e7eae8;
+			border-top: solid 5px #eae7e7;
+/*            #e7eae8*/
 		}
 
 			#header .logo div
