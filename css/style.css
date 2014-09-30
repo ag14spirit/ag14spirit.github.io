@@ -14,7 +14,8 @@
 
 	body
 	{
-		background: #f2f5f3;
+/*		background: #f2f5f3;*/
+        background: #f5f2f2;
 	}
 
 		body.is-loading *
@@ -35,7 +36,8 @@
 	{
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 400;
-		color: #6b7770;
+        color: #ac0d0d;
+/*		color: #6b7770;*/
 		font-size: 11.5pt;
 		line-height: 2em;
 	}
@@ -45,7 +47,8 @@
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #6b7770;
+/*		color: #6b7770;*/
+        color: #ac0d0d;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
@@ -82,7 +85,8 @@
 	b, strong
 	{
 		font-weight: 700;
-		color: #6b7770;
+/*		color: #6b7770;*/
+        color: #ac0d0d;
 	}
 	
 	i, em
@@ -154,7 +158,8 @@
 			font-family: 'Open Sans Condensed', sans-serif;
 			font-weight: 700;
 			text-transform: uppercase;
-			color: #c1cac5;
+/*			color: #c1cac5;*/
+            color: #cac1c1;
 		}
 
 	/* Image */
@@ -264,7 +269,8 @@
 			input[type="reset"].alt,
 			.button.alt
 			{
-				background: #c1cac5;
+/*				background: #c1cac5;*/
+                background: #cac1c1;
 			}
 
 				input[type="button"].alt:hover,
@@ -272,7 +278,8 @@
 				input[type="reset"].alt:hover,
 				.button.alt:hover
 				{
-					background: #ccd5d0;
+/*					background: #ccd5d0;*/
+                    background: #d5cccc;
 				}
 				
 				input[type="button"].alt:active,
@@ -280,7 +287,8 @@
 				input[type="reset"].alt:active,
 				.button.alt:active
 				{
-					background: #b1bab5;
+/*					background: #b1bab5;*/
+                    background: #bab1b1;
 				}
 	
 	/* List */
@@ -360,13 +368,15 @@
 					-o-transition: background-color .2s ease-in-out;
 					-ms-transition: background-color .2s ease-in-out;
 					transition: background-color .2s ease-in-out;
-					background: #c1cac5;
+/*					background: #c1cac5;*/
+                    background: #cac1c1;
 					text-align: center;
 				}
 				
 					ul.contact li a:before
 					{
-						color: #f2f5f3;
+/*						color: #f2f5f3;*/
+                        color: #f5f2f2;
 						font-size: 32px;
 						line-height: 48px;
 					}
@@ -413,14 +423,16 @@
 
 					ul.special li:hover a
 					{
-						background: #b9d2ce;
+/*						background: #b9d2ce;*/
+                        background: #d2b9b9;
 					}
 
 				ul.special a
 				{
 					display: block;
 					position: relative;
-					background: #c1cac5;
+/*					background: #c1cac5;*/
+                    background: #cac1c1;
 					width: 12em;
 					height: 12em;
 					border-radius: 6em;
@@ -450,7 +462,8 @@
 		ul.meta
 		{
 			font-size: 0.85em;
-			color: #a1aaa5;
+/*			color: #a1aaa5;*/
+            color: #aaa1a1;
 		}
 		
 			ul.meta li
@@ -480,7 +493,8 @@
 
 		ul.menu li
 		{
-			border-left: solid 1px #E7EAE8;
+			border-left: solid 1px #eae7e7;
+/*            #E7EAE8*/
 			display: inline-block;
 			padding: 0 0 0 0.75em;
 			margin: 0 0 0 0.75em;
@@ -521,7 +535,8 @@
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #6b7770;
+/*				color: #6b7770;*/
+                color: #ac0d0d;
 			}
 		
 			form input[type="text"],
@@ -534,7 +549,8 @@
 				display: block;
 				width: 100%;
 				border-radius: 8px;
-				border: solid 2px #E7EAE8;
+				border: solid 2px #eae7e7;
+/*                #E7EAE8*/
 			}
 
 				form input[type="text"]:focus,
@@ -543,7 +559,8 @@
 				form select:focus,
 				form textarea:focus
 				{
-					border-color: #a1cd9b;
+/*					border-color: #a1cd9b;*/
+                    border-color: #cd9b9b;
 				}
 
 			form input[type="text"],
@@ -605,7 +622,8 @@
 
 				table.default tr
 				{
-					border-top: solid 2px #E7EAE8;
+					border-top: solid 2px #eae7e7;
+/*                    #E7EAE8*/
 				}
 
 					table.default tr:first-child
@@ -626,12 +644,14 @@
 					font-family: 'Open Sans Condensed', sans-serif;
 					font-weight: 700;
 					text-transform: uppercase;
-					color: #6b7770;
+/*					color: #6b7770;*/
+                    color: #ac0d0d;
 				}
 			
 				table.default thead
 				{
-					background: #E7EAE8;
+					background: #eae7e7;
+/*                    background: #E7EAE8;*/
 					color: #fff;
 				}
 				
@@ -729,8 +749,10 @@
 	#main-wrapper
 	{
 		background: #fff;
-		border-top: solid 5px #b1ddab;
-		border-bottom: solid 5px #c1cac5;
+		border-top: solid 5px #ddabab;
+/*        #b1ddab*/
+		border-bottom: solid 5px #cac1c1;
+/*        #c1cac5*/
 	}
 	
 /*********************************************************************************/
@@ -776,15 +798,19 @@
 			font-family: 'Open Sans Condensed', sans-serif;
 			font-weight: 700;
 			text-transform: uppercase;
-			color: #575d59;
+/*			color: #575d59;*/
+            color: #5d5757;
 		}
 
 		#banner .button
 		{
-			color: #b4b7b5;
+/*			color: #b4b7b5;*/
+            color: #b7b4b4;
 			background: transparent !important;
-			border: solid 4px #575d59;
-			border-color: rgba(87, 93, 89, 0.35);
+			border: solid 4px #5d5757;
+/*            #575d59*/
+/*			border-color: rgba(87, 93, 89, 0.35);*/
+            border-color: rgba(93, 87, 87, 0.35);
 			border-radius: 16px;
 			-moz-transition: border-color .2s ease-in-out, color .2s ease-in-out;
 			-webkit-transition: border-color .2s ease-in-out, color .2s ease-in-out;
@@ -795,14 +821,17 @@
 
 			#banner .button:hover
 			{
-				color: #e4e7e5;
-				border-color: rgba(87, 93, 89, 0.75);
+/*				color: #e4e7e5;*/
+                color: #e7e4e4;
+/*				border-color: rgba(87, 93, 89, 0.75);*/
+                border-color: rgba(93, 87, 87, 0.75);
 			}
 
 			#banner .button:active
 			{
 				color: #fff;
-				border-color: rgba(97, 103, 99, 1.0);
+/*				border-color: rgba(97, 103, 99, 1.0);*/
+                border-color: rgb(103, 97, 97);
 			}
 
 
@@ -829,7 +858,8 @@
 
 		#footer h2.major span
 		{
-			background: #f2f5f3;
+/*			background: #f2f5f3;*/
+            background: #f5f2f2;
 		}
 
 /*********************************************************************************/
@@ -839,10 +869,12 @@
 	#copyright
 	{
 		display: inline-block;
-		background: #e7eae8;
+/*		background: #e7eae8;*/
+        background: #eae7e7;
 		padding: 0.75em 2em 0.75em 2em;
 		border-radius: 8px;
-		color: #8b9790;
+/*		color: #8b9790;*/
+        color: #978b8b;
 	}
 	
 		#copyright a
@@ -857,7 +889,8 @@
 		
 			#copyright .menu li
 			{
-				border-color: #C1CAC5;
+/*				border-color: #C1CAC5;*/
+                border-color: #cac1c1;
 				border-width: 2px;
 				line-height: 1em;
 			}
