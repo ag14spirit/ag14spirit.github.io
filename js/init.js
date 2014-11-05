@@ -1,58 +1,53 @@
 /*
-	TXT by HTML5 UP
+	Read Only by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
 (function($) {
 
 	skel.init({
 		reset: 'full',
 		breakpoints: {
-			'global':	{ range: '*', href: 'css/style.css' },
-			'desktop':	{ range: '641-', href: 'css/style-desktop.css', containers: 1200, grid: { gutters: 50 } },
-			'1000px':	{ range: '641-1200', href: 'css/style-1000px.css', containers: 960, grid: { gutters: 25 }, viewport: { width: 1080 } },
-			'mobile':	{ range: '-640', href: 'css/style-mobile.css', containers: '100%', grid: { collapse: true, gutters: 10 }, viewport: { scalable: false } }
-		}
-	}, {
-		layers: {
+			global: { href: 'css/style.css', containers: '45em', grid: { gutters: { vertical: '2em', horizontal: 0 } } },
+			xlarge: { media: '(max-width: 1680px)', href: 'css/style-xlarge.css' },
+			large: { media: '(max-width: 1280px)', href: 'css/style-large.css', containers: '42em', grid: { gutters: { vertical: '1.5em' } }, viewport: { scalable: false } },
+			medium: { media: '(max-width: 1024px)', href: 'css/style-medium.css', containers: '85%', grid: { collapse: 1 } },
+			small: { media: '(max-width: 736px)', href: 'css/style-small.css', containers: '90%', grid: { gutters: { vertical: '1.25em' } } },
+			xsmall: { media: '(max-width: 480px)', href: 'css/style-xsmall.css', grid: { collapse: 2 } }
+		},
+		plugins: {
 			layers: {
-				navPanel: {
-					hidden: true,
-					breakpoints: 'mobile',
-					position: 'top-left',
-					side: 'left',
-					animation: 'pushX',
-					width: '80%',
-					height: '100%',
-					clickToClose: true,
-					html: '<div data-action="navList" data-args="nav"></div>',
-					orientation: 'vertical'
-				},
 				titleBar: {
-					breakpoints: 'mobile',
+					breakpoints: 'medium',
+					width: '100%',
+					height: 44,
 					position: 'top-left',
 					side: 'top',
-					height: 44,
-					width: '100%',
-					html: '<span class="toggle" data-action="toggleLayer" data-args="navPanel"></span><span class="title" data-action="copyHTML" data-args="logo"></span>'
+					html: '<span class="toggle" data-action="toggleLayer" data-args="sidePanel"></span><span class="title" data-action="copyText" data-args="logo"></span>'
+				},
+				sidePanel: {
+					breakpoints: 'medium',
+					hidden: true,
+					width: { small: 275, medium: '20em' },
+					height: '100%',
+					animation: 'pushX',
+					position: 'top-right',
+					side: 'right',
+					orientation: 'vertical',
+					clickToHide: true,
+					html: '<div data-action="moveElement" data-args="header"></div>'
 				}
 			}
 		}
 	});
 
 	$(function() {
+		
+		var $body = $('body'),
+			$header = $('#header'),
+			$nav = $('#nav'), $nav_a = $nav.find('a'),
+			$wrapper = $('#wrapper');
 
-		var	$window = $(window),
-			$body = $('body');
-			
-		// Disable animations/transitions until the page has loaded.
-			$body.addClass('is-loading');
-			
-			$window.on('load', function() {
-				$body.removeClass('is-loading');
-			});
-			
 		// Forms (IE<10).
 			var $form = $('form');
 			if ($form.length > 0) {
@@ -70,18 +65,53 @@
 
 			}
 			
-		// CSS polyfills (IE<9).
-			if (skel.vars.IEVersion < 9)
-				$(':last-child').addClass('last-child');
+		// Header.
+			var ids = [];
 
-		// Dropdowns.
-			$('#nav > ul').dropotron({ 
-				mode: 'fade',
-				noOpenerFade: true,
-				speed: 300,
-				alignment: 'center'
-			});
+			// Set up nav items.
+				$nav_a
+					.scrolly()
+					.on('click', function(event) {
+						
+						var $this = $(this),
+							href = $this.attr('href');
+						
+						// Not an internal link? Bail.
+							if (href.charAt(0) != '#')
+								return;
+						
+						// Prevent default behavior.
+							event.preventDefault();
+						
+						// Remove active class from all links and mark them as locked (so scrollzer leaves them alone).
+							$nav_a
+								.removeClass('active')
+								.addClass('scrollzer-locked');
+					
+						// Set active class on this link.
+							$this.addClass('active');
+					
+					})
+					.each(function() {
+					
+						var $this = $(this),
+							href = $this.attr('href'),
+							id;
+						
+						// Not an internal link? Bail.
+							if (href.charAt(0) != '#')
+								return;
+						
+						// Add to scrollzer ID list.
+							id = href.substring(1);
+							$this.attr('id', id + '-link');
+							ids.push(id);
+						
+					});
 			
+			// Initialize scrollzer.
+				$.scrollzer(ids, { pad: 300, lastHack: true });
+		
 	});
 
 })(jQuery);

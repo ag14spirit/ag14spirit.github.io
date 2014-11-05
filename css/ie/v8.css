@@ -1,105 +1,61 @@
 /*
-	TXT by HTML5 UP
+	Read Only by HTML5 UP
 	html5up.net | @n33co
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/*********************************************************************************/
-/* Basic                                                                         */
-/*********************************************************************************/
+/* Basic */
 
-	.image:before
-	{
-		display: none;
-	}
-
+	code,
+	input[type="text"],
+	input[type="password"],
+	input[type="email"],
+	select,
+	textarea,
+	.box,
 	.image,
 	.image img,
-	input[type="button"],
 	input[type="submit"],
 	input[type="reset"],
-	.button,
-	ul.contact li a,
-	ul.special a,
-	form input[type="text"],
-	form input[type="email"],
-	form input[type="password"],
-	form select,
-	form textarea,
-	#copyright,
-	#nav li a,
-	#nav li span
-	{
+	input[type="button"],
+	.button {
 		position: relative;
-		-ms-behavior: url('css/ie/PIE.htc');
+		-ms-behavior: url("css/ie/PIE.htc");
 	}
 
-	/* Section/Article */
-	
-		section > .last-child,
-		article > .last-child
-		{
-			margin-bottom: 0;
-		}
+/* Form */
 
-		section.last-child,
-		article.last-child
-		{
-			margin-bottom: 0;
-		}
-			
-/*********************************************************************************/
-/* Wrappers                                                                      */
-/*********************************************************************************/
-
-	#banner-wrapper
-	{
-		background-image:		url('../../images/banner.jpg');
-		background-position:	center center;
-		background-repeat:		no-repeat;
-		background-size:		cover;
-		-ms-behavior: url('css/ie/backgroundsize.min.htc');
+	input[type="text"],
+	input[type="password"],
+	input[type="email"],
+	select {
+		line-height: 2.75em;
 	}
 
-		#banner-wrapper:before
-		{
-			display: none;
-		}
-
-/*********************************************************************************/
-/* Nav                                                                           */
-/*********************************************************************************/
-
-	#nav
-	{
-		background: #f8f8f8;
+	input[type="checkbox"],
+	input[type="radio"] {
+		-moz-appearance: normal;
+		-webkit-appearance: normal;
+		-o-appearance: normal;
+		-ms-appearance: normal;
+		appearance: normal;
 	}
 
-		#nav:after
-		{
-			display: none;
+		input[type="checkbox"] + label,
+		input[type="radio"] + label {
+			padding: 0 0 0 1.5em;
 		}
-		
-	.dropotron
-	{
-		box-shadow: none !important;
-		-ms-behavior: url('css/ie/PIE.htc');
+
+			input[type="checkbox"] + label:before,
+			input[type="radio"] + label:before {
+				display: none;
+			}
+
+/* Button */
+
+	input[type="submit"].alt,
+	input[type="reset"].alt,
+	input[type="button"].alt,
+	.button.alt {
+		border: solid 2px #e4e4e4;
 	}
-		
-/*********************************************************************************/
-/* Banner                                                                        */
-/*********************************************************************************/
-
-	#banner
-	{
-		background: rgb(21, 28, 23);
-	}
-
-		#banner:before
-		{
-			display: none;
-		}
-
-		#banner:after
-		{
-		}
