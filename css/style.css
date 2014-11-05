@@ -35,7 +35,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #406977 !important;
 		}
 
 	strong, b {
@@ -187,7 +187,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #406977;
 		font-size: 3.5em;
 	}
 
@@ -251,7 +251,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			border-color: #406977;
 		}
 
 	.select-wrapper {
@@ -362,7 +362,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			border-color: #406977;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -554,7 +554,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4acaa8;
+					background: #406977;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -843,7 +843,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #406977;
 			color: #ffffff !important;
 		}
 
@@ -851,14 +851,14 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: rgba(64, 105, 119, 0.9);
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #39c29d;
+				background-color: #406977;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -913,8 +913,8 @@
 /* Header */
 
 	#header {
-		background: #4acaa8;
-		color: #d1f1e9;
+		background: #406977;
+		color: #B0CCD5;
 		height: 100%;
 		position: fixed;
 		text-align: center;
@@ -932,11 +932,11 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #B0CCD5;
 		}
 
 		#header a {
-			color: #d1f1e9;
+			color: #B0CCD5;
 		}
 
 			#header a:hover {
@@ -959,7 +959,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #B0CCD5;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -977,7 +977,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #B0CCD5;
 				}
 
 		#header > nav ul {
@@ -987,7 +987,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #5ccfb0;
+				border-top: solid 2px #B0CCD5;
 				display: block;
 				padding: 0;
 			}
@@ -1007,7 +1007,7 @@
 
 					#header > nav ul li a.active {
 						background: #fff;
-						color: #4acaa8 !important;
+						color: #406977 !important;
 					}
 
 				#header > nav ul li:first-child {
