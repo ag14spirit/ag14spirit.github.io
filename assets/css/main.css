@@ -1656,3 +1656,12 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+		
+		gold {
+   color:#c3a343;
+   -webkit-text-fill-color: transparent;
+   background: -webkit-linear-gradient(transparent, transparent),
+   url("../../images/gold.jpg") repeat;
+   background: -o-linear-gradient(transparent, transparent);
+   -webkit-background-clip: text;
+		}
