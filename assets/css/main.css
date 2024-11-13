@@ -96,6 +96,10 @@ video {
   vertical-align: baseline;
 }
 
+#header .logo img {
+  padding: 5px;
+}
+
 article,
 aside,
 details,
@@ -1275,7 +1279,7 @@ button {
   -ms-transition: -ms-transform 0.325s ease-in-out,
     -ms-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-  background-image: url("../../images/bg.jpg");
+  background-image: url("../../images/bg3.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1418,9 +1422,9 @@ body.is-preload #bg:before {
 }
 
 #header .logo {
-  width: 4.75rem;
-  height: 4.75rem;
-  line-height: 4.75rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  line-height: 5.5rem;
   border: solid 1px #c3a343;
   border-radius: 100%;
 }
@@ -1569,9 +1573,9 @@ body.is-preload #header .content .inner {
   }
 
   #header .logo {
-    width: 4rem;
-    height: 4rem;
-    line-height: 4rem;
+    width: 4.75rem;
+    height: 4.75rem;
+    line-height: 4.75rem;
   }
 
   #header .logo .icon:before {
@@ -1672,7 +1676,7 @@ body.is-preload #header .content .inner {
   position: relative;
   width: 40rem;
   max-width: 100%;
-  background-color: rgba(27, 31, 34, 0.85);
+  background-color: rgba(45, 15, 15, 0.4);
   border-radius: 4px;
   opacity: 0;
 }
