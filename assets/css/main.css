@@ -1417,8 +1417,8 @@ body.is-preload #bg:before {
 }
 
 #header .logo {
-  width: 5.5rem;
-  height: 5.5rem;
+  width: 85%;
+  height: auto;
   line-height: 5.5rem;
   border: solid 1px #ffffff;
   border-radius: 100%;
@@ -1568,8 +1568,8 @@ body.is-preload #header .content .inner {
   }
 
   #header .logo {
-    width: 4.75rem;
-    height: 4.75rem;
+    width: 85%;
+    height: auto;
     line-height: 4.75rem;
   }
 
