@@ -1222,6 +1222,7 @@ button {
   -ms-transform: scale(1);
   transform: scale(1);
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
   position: fixed;
   top: 0;
   left: 0;
@@ -1792,4 +1793,5 @@ gold {
     url("../../images/gold.jpg") repeat;
   background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
+  background-clip: text;
 }
