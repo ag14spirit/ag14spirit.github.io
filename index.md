@@ -432,10 +432,8 @@ Focused and highly motivated biomedical sciences graduate with experience in and
 - Blackmagic Design ATEM 4K Live Production Switcher
 - Squarespace Content Management System (CMS)
 - Skype, Dropbox, Podio, Slack
-
 - Experienced in capturing medical histories
 - Experienced in medical procedure and exam assistance
-
 - Medical terminology and abbreviations
 - HMO referral protocols
 - Patient intake, triage
@@ -446,7 +444,6 @@ Focused and highly motivated biomedical sciences graduate with experience in and
 - Inventory management
 - Workspace maintenance
 - Environmental health
-
 - Lab quality systems and research QA
 - Aseptic / sterile inoculation
 - Autoclave steam sterilization
@@ -456,11 +453,9 @@ Focused and highly motivated biomedical sciences graduate with experience in and
 - Krebs-Henseleit ex vivo tissue mounting
 - Gel electrophoresis and Western blot
 - Data analysis
-
 - English (native)
 - Spanish (beginner)
 - Technical / scientific writing
-
 - Journalism, AP Style, writing / editing
 - RGB / CMYK desktop publishing with soft-proofing
 - Nikon / Canon DSLR cameras
@@ -499,19 +494,26 @@ National Youth Leadership Training specializing in Team Management. All training
 
 ### Test Scores
 
-<dl>
-  <dt>PSAT</dt>
-  <dd>210</dd>
-  <dt>SAT</dt>
-  <dd>[1890] {570R, 620M, 700W}</dd>
-  <dd>[2110] {700R, 710M, 700W}</dd>
-  <dt>ACT</dt>
-  <dd>[29] {29E, 32M, 26R, 27S}</dd>
-  <dt>MCAT</dt>
-  <dd>[31] {10B, 10P, 11R}</dd>
-  <dt>GRE</dt>
-  <dd>162V, 153M, 4.0W</dd>
-</dl>
+#### PSAT
+
+210
+
+#### SAT
+
+[1890] {570R, 620M, 700W}
+[2110] {700R, 710M, 700W}
+
+#### ACT
+
+[29] {29E, 32M, 26R, 27S}
+
+#### MCAT
+
+[31] {10B, 10P, 11R}
+
+#### GRE
+
+162V, 153M, 4.0W
 
 ## Footer
 
