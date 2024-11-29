@@ -494,26 +494,12 @@ National Youth Leadership Training specializing in Team Management. All training
 
 ### Test Scores
 
-#### PSAT
-
-210
-
-#### SAT
-
-[1890] {570R, 620M, 700W}
-[2110] {700R, 710M, 700W}
-
-#### ACT
-
-[29] {29E, 32M, 26R, 27S}
-
-#### MCAT
-
-[31] {10B, 10P, 11R}
-
-#### GRE
-
-162V, 153M, 4.0W
+PSAT: **210**
+SAT: **1890** {570R, 620M, 700W}
+SAT: **2110** {700R, 710M, 700W}
+ACT: **29** {29E, 32M, 26R, 27S}
+MCAT: **31** {10B, 10P, 11R}
+GRE: 162V, 153M, 4.0W
 
 ## Footer
 
