@@ -380,36 +380,36 @@ Skills: management, event planning, training, education, public relations, volun
 
 ## References
 
-Pat Coyle
-Operations Pastor (Supervisor)
+Pat Coyle,
+<dfn title="Supervisor">Operations Pastor</dfn> at
 Grace Bible Church in College Station, TX
 
-Amber Roberts
-Creative Director (Colleague)
+Amber Roberts,
+<dfn title="Colleague">Creative Director</dfn> at
 Grace Bible Church in College Station, TX
 
-John Stallone, Ph.D.
-Professor (PI)
+John Stallone, Ph.D.,
+<dfn title="PI">Professor</dfn> at
 Texas A&M University in College Station, TX
 
-Andrea Hanson
-Doctoral Researcher (Colleague)
+Andrea Hanson,
+Doctoral Researcher (Colleague) at
 Texas A&M University in College Station, TX
 
-John Ott, M.D.
-Physician (Supervisor)
+John Ott, M.D.,
+Physician (Supervisor) at
 Specialty Healthcare and Wellness in Bellaire, TX
 
-Michael Golding, Ph.D.
-Assistant Professor (Committee Chair)
+Michael Golding, Ph.D.,
+Assistant Professor (Committee Chair) at
 Texas A&M University in College Station, TX
 
-Louise Abbott, D.V.M., Ph.D.
-Professor (Committee)
+Louise Abbott, D.V.M., Ph.D.,
+Professor (Committee) at
 Texas A&M University in College Station, TX
 
-Phil Rich
-Executive Director (Supervisor)
+Phil Rich,
+Executive Director (Supervisor) at
 Impact Retreats in College Station, TX
 
 ## Skills Summary
