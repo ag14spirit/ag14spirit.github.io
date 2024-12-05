@@ -91,6 +91,7 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
+
 /* HTML5 display-role reset for older browsers */
 article,
 aside,
@@ -105,17 +106,21 @@ nav,
 section {
   display: block;
 }
+
 body {
   line-height: 1;
 }
+
 ol,
 ul {
   list-style: none;
 }
+
 blockquote,
 q {
   quotes: none;
 }
+
 blockquote:before,
 blockquote:after,
 q:before,
@@ -123,6 +128,7 @@ q:after {
   content: "";
   content: none;
 }
+
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -153,7 +159,7 @@ code {
   font-size: 90%;
   /*line-height: 1em;*/
   font-family: Monaco, Menlo, monospace, sans-serif;
-  color: #ccc;
+  color: #c2c2c2;
 }
 
 p code {
@@ -208,7 +214,7 @@ h1 {
   left: 25%;
 }
 
-h1 + p {
+h1+p {
   /*subtitle*/
   font-style: italic;
   font-size: 110%;
@@ -216,7 +222,7 @@ h1 + p {
 
 h2 {
   font-size: 1.1em;
-  color: #a00;
+  color: #417e9b;
   margin-top: 2em;
   position: relative;
   top: 1.2em;
@@ -227,7 +233,7 @@ h2 {
 h3 {
   font-size: 1em;
   line-height: 2em;
-  color: #ccc;
+  color: #c2c2c2;
   position: relative;
   top: 1.6em;
   text-align: right;
@@ -240,14 +246,14 @@ a {
 }
 
 a:hover {
-  color: #39f;
+  color: #417e9b;
 }
 
 #webaddress {
   margin-top: 1em;
   position: relative;
   left: 25%;
-  color: #ccc;
+  color: #c2c2c2;
   font-family: Monaco, Menlo, monospace, sans-serif;
   font-size: 90%;
 }
@@ -258,7 +264,7 @@ a:hover {
 
 em {
   font-style: normal;
-  color: #2d4e5e;
+  color: #417e9b;
 }
 
 strong {
