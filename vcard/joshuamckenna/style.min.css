@@ -47,6 +47,7 @@ a {
   transition: top 0.2s ease-out, opacity 0.2s ease-out;
   transform: translateZ(0);
   border-radius: 1rem;
+  z-index: 2;
 }
 
 #close {
