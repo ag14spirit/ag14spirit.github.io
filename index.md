@@ -15,17 +15,10 @@ title: Joshua McKenna's CV
  | <a href="https://jmckennaphoto.com">Photography</a>
 </div>
 
-<<<<<<< HEAD
-- Citizenship: United States
-- Special Hiring Authority: None
-- Federal Experience: None
-- Clearance: None
-=======
 <!-- Citizenship: United States -->
 <!-- Special Hiring Authority: None -->
 <!-- Federal Experience: None -->
 <!-- Clearance: None -->
->>>>>>> main
 
 ## Summary
 
