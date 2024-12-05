@@ -7,8 +7,6 @@ title: Joshua McKenna's CV
 
 **Executive Manager, Technical Operations** at [Grace Bible Church](https://www.grace-bible.org/)
 
-## Personal Information
-
 <div id="webaddress">
 <a href="mailto:josh@mckennafam.com">josh@mckennafam.com</a>
  | <a href="https://www.linkedin.com/in/joshuammckenna/">LinkedIn</a>
