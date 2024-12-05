@@ -1,0 +1,5 @@
+{
+  "prettier.bracketSameLine": true,
+  "prettier.experimentalTernaries": true,
+  "prettier.vueIndentScriptAndStyle": true
+}
