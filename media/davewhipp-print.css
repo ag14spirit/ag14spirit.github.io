@@ -150,8 +150,8 @@ p {
   position: relative;
   left: 25%;
   margin-bottom: 0.2em;
-  margin-right: 0;
-  width: 60%;
+  margin-right: 5%;
+  width: 50%;
 }
 
 code {
@@ -163,6 +163,7 @@ code {
 }
 
 p code {
+  display: block;
   position: absolute;
   text-align: right;
   right: -20%;
