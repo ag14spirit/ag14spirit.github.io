@@ -15,10 +15,17 @@ title: Joshua McKenna's CV
  | <a href="https://jmckennaphoto.com">Photography</a>
 </div>
 
+<<<<<<< HEAD
 - Citizenship: United States
 - Special Hiring Authority: None
 - Federal Experience: None
 - Clearance: None
+=======
+<!-- Citizenship: United States -->
+<!-- Special Hiring Authority: None -->
+<!-- Federal Experience: None -->
+<!-- Clearance: None -->
+>>>>>>> main
 
 ## Summary
 
@@ -121,7 +128,7 @@ MEDICAL ASSISTANT, January 2015 - May 2015
 - Created new responsive website using Squarespace CMS
 - Performed SEO for website, including mobile optimization and copywriting
 ADMINISTRATIVE ASSISTANT, November 2014 - January 2015
-- Assessed mail, calls, faxes for physician’s attention
+- Assessed mail, calls, faxes for physician's attention
 - Triaged over 100 calls daily for scheduling and intake
 - Resolved filing discrepancies in over 1,000 patient records
 - Consolidated list of preferred healthcare providers for website
@@ -326,13 +333,13 @@ Skills: management, event planning, training, education, public relations, volun
 
 ## Publications
 
-`April 2019` Andrea E. Hanson, Nikolas W. Garcia, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. Hypogonadal Hypertension In Male Sprague-Dawley Rats Is Reversed by Testosterone Replacement Therapy, Which Suppresses Renin-Angiotensin System Expression. FASEB J 32:558.1, 2019. [ABSTRACT](https://www.fasebj.org/doi/abs/10.1096/fasebj.2019.33.1_supplement.577.5)
+`April 2019` Andrea E. Hanson, Nikolas W. Garcia, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. _Hypogonadal Hypertension In Male Sprague-Dawley Rats Is Reversed by Testosterone Replacement Therapy, Which Suppresses Renin-Angiotensin System Expression._ FASEB J 32:558.1, 2019. [ABSTRACT](https://www.fasebj.org/doi/abs/10.1096/fasebj.2019.33.1_supplement.577.5)
 
-`April 2018` Andrea E. Hanson, Joshua M. McKenna, Nikolas W. Garcia, Mercedes Perusquia, and John N. Stallone. Preeclampsia alters the role of nitric oxide in androgen metabolite-induced vasorelaxation of rat uterine artery. FASEB J 32:584.8, 2018. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.2018.32.1_supplement.584.8)
+`April 2018` Andrea E. Hanson, Joshua M. McKenna, Nikolas W. Garcia, Mercedes Perusquia, and John N. Stallone. _Preeclampsia alters the role of nitric oxide in androgen metabolite-induced vasorelaxation of rat uterine artery._ FASEB J 32:584.8, 2018. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.2018.32.1_supplement.584.8)
 
-`April 2018` Andrea E. Hanson, Nikolas W. Garcia, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. Hypotestosteronemia-Induced Hypertension in Male Sprague-Dawley Rats is Reversed by Testosterone Replacement Therapy, Which is a Non-Genomic, Estrogen-Independent Effect. FASEB J 32:584.9, 2018. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.2018.32.1_supplement.584.9)
+`April 2018` Andrea E. Hanson, Nikolas W. Garcia, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. _Hypotestosteronemia-Induced Hypertension in Male Sprague-Dawley Rats is Reversed by Testosterone Replacement Therapy, Which is a Non-Genomic, Estrogen-Independent Effect._ FASEB J 32:584.9, 2018. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.2018.32.1_supplement.584.9)
 
-`April 2017` Andrea E. Hanson, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. Hypotestosteronemia-induced hypertension in male Sprague-Dawley rats is renin-angiotensin system-dependent. FASEB J 31:1028.5, 2017. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.31.1_supplement.1028.5)
+`April 2017` Andrea E. Hanson, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. _Hypotestosteronemia-induced hypertension in male Sprague-Dawley rats is renin-angiotensin system-dependent._ FASEB J 31:1028.5, 2017. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.31.1_supplement.1028.5)
 
 ## Education
 
@@ -481,26 +488,26 @@ Occupational Health and Safety (OSHA) training in Bloodborne Pathogens. All trai
 National Youth Leadership Training specializing in Team Management. All training was completed at Boy Scouts of America 2008 through 2009 (80 hrs).
 
 - Certified in Basic Rat Handling and Techniques by TAMU CMP
-- Certified in BLS First-Aid CPR/AED (exp. Dec 2016) by AHA
-- Certified in Responsible Conduct of Research for Human Subjects by CITI
+- Certified in **BLS First-Aid CPR/AED** (exp. Dec 2016) by AHA
+- Certified in **Responsible Conduct of Research** for Human Subjects by CITI
 - Trained in Family Health History and Genomics by TAMU CEHD
-- Trained in Blood-borne Pathogens Safety (exp. March 2015)
+- Trained in **Blood-borne Pathogens Safety** (exp. March 2015)
 - Attended National Youth Leadership Training by BSA
 
 ### Languages
 
-- English: Native Speaker
-- Spanish: Limited Working Proficiency
+- **English**: Native Speaker
+- **Spanish**: Limited Working Proficiency
 
 ### Test Scores
 
-PSAT: **210**
-SAT: **1890** {570R, 620M, 700W}
-SAT: **2110** {700R, 710M, 700W}
-ACT: **29** {29E, 32M, 26R, 27S}
-MCAT: **31** {10B, 10P, 11R}
-GRE: 162V, 153M, 4.0W
+- PSAT: **210**
+- SAT: **1890** {570R, 620M, 700W}
+- SAT: **2110** {700R, 710M, 700W}
+- ACT: **29** {29E, 32M, 26R, 27S}
+- MCAT: **31** {10B, 10P, 11R}
+- GRE: 162V, 153M, 4.0W
 
 ## Footer
 
-Last updated: Dec 2024
+Last updated: **Dec 2024**
