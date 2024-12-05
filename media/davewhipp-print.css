@@ -204,7 +204,7 @@ h2,
 h3,
 h4 {
   font-weight: 400;
-  font-family: Avenir, Cousine, Verdana, sans-serif;
+  font-family: "Lato", sans-serif;
   width: 80%;
 }
 
@@ -256,7 +256,7 @@ a:hover {
   position: relative;
   left: 25%;
   color: #c2c2c2;
-  font-family: Monaco, Menlo, monospace, sans-serif;
+  font-family: "Source Code Pro", monospace;
   font-size: 90%;
 }
 

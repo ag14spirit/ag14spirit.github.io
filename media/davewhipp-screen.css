@@ -151,7 +151,7 @@ p {
   left: 25%;
   margin-bottom: 0.7em;
   margin-right: 5%;
-  width: 50%;
+  max-width: 50%;
 }
 
 code {
@@ -163,7 +163,7 @@ code {
 }
 
 p code {
-  display: block;
+  display: inline-block;
   max-width: 25%;
   position: absolute;
   text-align: right;
@@ -204,8 +204,8 @@ h2,
 h3,
 h4 {
   font-weight: 400;
-  font-family: Avenir, Cousine, Verdana, sans-serif;
-  width: 80%;
+  font-family: "Lato", sans-serif;
+  width: 50%;
 }
 
 h1 {
@@ -255,7 +255,7 @@ a:hover {
   position: relative;
   left: 25%;
   color: #417e9b;
-  font-family: Monaco, Menlo, monospace, sans-serif;
+  font-family: "Source Code Pro", monospace;
   font-size: 100%;
 }
 
