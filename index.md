@@ -8,9 +8,9 @@ title: Joshua McKenna's CV
 **Executive Manager, Technical Operations** at [Grace Bible Church](https://www.grace-bible.org/)
 
 <div id="webaddress">
-<a href="mailto:josh@mckennafam.com">josh@mckennafam.com</a>
- | <a href="https://www.linkedin.com/in/joshuammckenna/">LinkedIn</a>
- | <a href="https://jmckennaphoto.com">Photography</a>
+<a href="https://www.linkedin.com/in/joshuammckenna/">LinkedIn</a>
+ | <a href="mailto:josh@mckennafam.com?subject=Let's%20connect%20re%3A%20your%20CV">Email Me</a>
+ | <a href="/vcard/joshuamckenna/">Contact Card</a>
 </div>
 
 <!-- Citizenship: United States -->
