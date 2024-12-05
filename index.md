@@ -9,16 +9,16 @@ title: Joshua McKenna's CV
 
 ## Personal Information
 
-Citizenship: United States
-Special Hiring Authority: None
-Federal Experience: None
-Clearance: None
-
 <div id="webaddress">
 <a href="mailto:josh@mckennafam.com">josh@mckennafam.com</a>
  | <a href="https://www.linkedin.com/in/joshuammckenna/">LinkedIn</a>
  | <a href="https://jmckennaphoto.com">Photography</a>
 </div>
+
+<!-- Citizenship: United States -->
+<!-- Special Hiring Authority: None -->
+<!-- Federal Experience: None -->
+<!-- Clearance: None -->
 
 ## Summary
 
@@ -29,21 +29,21 @@ Experienced business owner with a demonstrated history in individual and family 
 ### Grace Bible Church
 
 `March 2023 - present`
-**Executive Manager, Technical Operations** for [Grace Bible Church](https://www.grace-bible.org/) of College Station, Texas
+**Executive Manager, Technical Operations** for [Grace Bible Church](https://www.grace-bible.org/)
 
 `May 2020 - April 2023`
-**Executive Manager, Production** for [Grace Bible Church](https://www.grace-bible.org/) of College Station, Texas
+**Executive Manager, Production** for [Grace Bible Church](https://www.grace-bible.org/)
 
 `Sept 2017 - May 2020`
-**Manager, Visual Media** for [Grace Bible Church](https://www.grace-bible.org/) of College Station, Texas
+**Manager, Visual Media** for [Grace Bible Church](https://www.grace-bible.org/)
 
 `May 2017 - Sept 2017`
-**Specialist, Video Production** for [Grace Bible Church](https://www.grace-bible.org/) of College Station, Texas
+**Specialist, Video Production** for [Grace Bible Church](https://www.grace-bible.org/)
 
 ### J. McKenna Photography
 
 `Jan 2009 - present`
-**Owner, Head Photographer** for [J. McKenna Photography](https://jmckennaphoto.com/) of College Station, Texas
+**Owner, Head Photographer** for [J. McKenna Photography](https://jmckennaphoto.com/)
 
 <!--
 Joshua McKenna
@@ -69,7 +69,7 @@ Skills: HTML, CSS, User Experience (UX) design, price analysis, small business a
 ### Texas A&M University
 
 `June 2016 - Aug 2017`
-**Graduate Research Assistant** for [Texas A&M University College of Veterinary Medicine](https://vetmed.tamu.edu/) in College Station, Texas
+**Graduate Research Assistant** for [Texas A&M University](https://vetmed.tamu.edu/)
 
 <!--
 John Stallone, Ph.D.
@@ -94,7 +94,7 @@ Skills: serial dilution, microscopy, ex vivo tissues, lab quality system, rat ha
 ### Specialty Healthcare & Wellness
 
 `Dec 2014 - May 2015`
-**Medical Assistant** for [John Ott, M.D.](https://www.johnpottmd.com/) in Houston, Texas
+**Medical Assistant** for [John Ott, M.D.](https://www.johnpottmd.com/)
 
 <!--
 John Ott, M.D.
@@ -121,7 +121,7 @@ MEDICAL ASSISTANT, January 2015 - May 2015
 - Created new responsive website using Squarespace CMS
 - Performed SEO for website, including mobile optimization and copywriting
 ADMINISTRATIVE ASSISTANT, November 2014 - January 2015
-- Assessed mail, calls, faxes for physician’s attention
+- Assessed mail, calls, faxes for physician's attention
 - Triaged over 100 calls daily for scheduling and intake
 - Resolved filing discrepancies in over 1,000 patient records
 - Consolidated list of preferred healthcare providers for website
@@ -237,7 +237,7 @@ Skills: coaching, safety, instruction, team management, public relations, lifegu
 -->
 
 `Nov 2015 - May 2017`
-**Team Leader** for Aggie Research Leader Program in College Station, Texas
+**Team Leader** for Aggie Research Leader Program
 
 <!--
 Christopher Quick, Ph.D.
@@ -255,7 +255,7 @@ Skills: research, management, training, mentorship, pedagogy, instructional desi
 -->
 
 `Aug 2016 - Aug 2019`
-**Board Member** for [Vision Inspired Foundation](https://visioninspired.org/) in Houston, Texas
+**Board Member** for [Vision Inspired Foundation](https://visioninspired.org/)
 
 <!--
 Matthew Wong
@@ -264,10 +264,10 @@ Chairman
 -->
 
 `Oct 2013 - Aug 2016`
-**Photographer** for [Breakaway Student Ministries](https://breakaway.org/) in College Station, Texas
+**Photographer** for [Breakaway Student Ministries](https://breakaway.org/)
 
 `Nov 2014 - Sept 2015`
-**Media/IT Consultant** for [Impact Retreat](https://impactretreat.com/) in College Station, Texas
+**Media/IT Consultant** for [Impact Retreat](https://impactretreat.com/)
 
 <!--
 Phil Rich
@@ -284,7 +284,7 @@ Skills: digital photography, graphic design, branding, editing
 -->
 
 `May 2013 - May 2014`
-**Secretary** for [Eta Sigma Gamma](https://etasigmagamma.org/) in College Station, Texas
+**Secretary** for [Eta Sigma Gamma](https://etasigmagamma.org/)
 
 <!--
 Beth McNeill, Ph.D.
@@ -300,7 +300,7 @@ Skills: secretarial, volunteer coordination, research
 -->
 
 `May 2012 - May 2014`
-**Office** for [A&M Photography Club](https://etasigmagamma.org/) in College Station, Texas
+**Office** for [A&M Photography Club](https://etasigmagamma.org/)
 
 <!--
 Matthew Wong
@@ -326,18 +326,18 @@ Skills: management, event planning, training, education, public relations, volun
 
 ## Publications
 
-`April 2019` Andrea E. Hanson, Nikolas W. Garcia, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. Hypogonadal Hypertension In Male Sprague-Dawley Rats Is Reversed by Testosterone Replacement Therapy, Which Suppresses Renin-Angiotensin System Expression. FASEB J 32:558.1, 2019. [ABSTRACT](https://www.fasebj.org/doi/abs/10.1096/fasebj.2019.33.1_supplement.577.5)
+`April 2019` Andrea E. Hanson, Nikolas W. Garcia, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. _Hypogonadal Hypertension In Male Sprague-Dawley Rats Is Reversed by Testosterone Replacement Therapy, Which Suppresses Renin-Angiotensin System Expression._ FASEB J 32:558.1, 2019. [ABSTRACT](https://www.fasebj.org/doi/abs/10.1096/fasebj.2019.33.1_supplement.577.5)
 
-`April 2018` Andrea E. Hanson, Joshua M. McKenna, Nikolas W. Garcia, Mercedes Perusquia, and John N. Stallone. Preeclampsia alters the role of nitric oxide in androgen metabolite-induced vasorelaxation of rat uterine artery. FASEB J 32:584.8, 2018. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.2018.32.1_supplement.584.8)
+`April 2018` Andrea E. Hanson, Joshua M. McKenna, Nikolas W. Garcia, Mercedes Perusquia, and John N. Stallone. _Preeclampsia alters the role of nitric oxide in androgen metabolite-induced vasorelaxation of rat uterine artery._ FASEB J 32:584.8, 2018. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.2018.32.1_supplement.584.8)
 
-`April 2018` Andrea E. Hanson, Nikolas W. Garcia, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. Hypotestosteronemia-Induced Hypertension in Male Sprague-Dawley Rats is Reversed by Testosterone Replacement Therapy, Which is a Non-Genomic, Estrogen-Independent Effect. FASEB J 32:584.9, 2018. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.2018.32.1_supplement.584.9)
+`April 2018` Andrea E. Hanson, Nikolas W. Garcia, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. _Hypotestosteronemia-Induced Hypertension in Male Sprague-Dawley Rats is Reversed by Testosterone Replacement Therapy, Which is a Non-Genomic, Estrogen-Independent Effect._ FASEB J 32:584.9, 2018. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.2018.32.1_supplement.584.9)
 
-`April 2017` Andrea E. Hanson, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. Hypotestosteronemia-induced hypertension in male Sprague-Dawley rats is renin-angiotensin system-dependent. FASEB J 31:1028.5, 2017. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.31.1_supplement.1028.5)
+`April 2017` Andrea E. Hanson, Joshua M. McKenna, Mercedes Perusquia, and John N. Stallone. _Hypotestosteronemia-induced hypertension in male Sprague-Dawley rats is renin-angiotensin system-dependent._ FASEB J 31:1028.5, 2017. [ABSTRACT](https://www.fasebj.org/doi/10.1096/fasebj.31.1_supplement.1028.5)
 
 ## Education
 
 `December 2016`
-**MS Biomedical Science**, Texas A&M University College of Veterinary Medicine, GPA: 3.6
+**MS Biomedical Science**, Texas A&M University, GPA: 3.6
 
 - Certified by Aggie Research Leaders Program
 - Trained in Basic Rat Handling and Techniques by TAMU CMP
@@ -360,10 +360,10 @@ Skills: management, event planning, training, education, public relations, volun
 `2014` National Pacemaker Award, Aggieland Yearbook
 `2013` Katy/West Houston Aggie Moms Scholarship
 `2013` Gamman of the Year, Eta Sigma Gamma
-`2012` 1st place - Sport Feature Photo, Texas Intercollegiate Press Association
-`2012` 1st place - Front Page Design, Texas Intercollegiate Press Association
-`2012` 3rd place - Sport Action Photo, Texas Intercollegiate Press Association
-`2007` Eagle Scout, Boy Scouts of America
+`2012` 1st place - Sport Feature Photo, [Texas Intercollegiate Press Association](https://texasipa.org/)
+`2012` 1st place - Front Page Design, [Texas Intercollegiate Press Association](https://texasipa.org/)
+`2012` 3rd place - Sport Action Photo, [Texas Intercollegiate Press Association](https://texasipa.org/)
+`2007` Eagle Scout, [Boy Scouts of America](https://www.scouting.org/)
 
 ## Professional Associations
 
@@ -393,23 +393,23 @@ John Stallone, Ph.D.,
 Texas A&M University in College Station, TX
 
 Andrea Hanson,
-Doctoral Researcher (Colleague) at
+<dfn title="Colleague">Doctoral Researcher</dfn> at
 Texas A&M University in College Station, TX
 
 John Ott, M.D.,
-Physician (Supervisor) at
+<dfn title="Supervisor">Physician</dfn> at
 Specialty Healthcare and Wellness in Bellaire, TX
 
 Michael Golding, Ph.D.,
-Assistant Professor (Committee Chair) at
+<dfn title="Committee Chair">Assistant Professor</dfn> at
 Texas A&M University in College Station, TX
 
 Louise Abbott, D.V.M., Ph.D.,
-Professor (Committee) at
+<dfn title="Committee Member">Professor</dfn> at
 Texas A&M University in College Station, TX
 
 Phil Rich,
-Executive Director (Supervisor) at
+<dfn title="Supervisor">Executive Director</dfn> at
 Impact Retreats in College Station, TX
 
 ## Skills Summary
@@ -481,26 +481,26 @@ Occupational Health and Safety (OSHA) training in Bloodborne Pathogens. All trai
 National Youth Leadership Training specializing in Team Management. All training was completed at Boy Scouts of America 2008 through 2009 (80 hrs).
 
 - Certified in Basic Rat Handling and Techniques by TAMU CMP
-- Certified in BLS First-Aid CPR/AED (exp. Dec 2016) by AHA
-- Certified in Responsible Conduct of Research for Human Subjects by CITI
+- Certified in **BLS First-Aid CPR/AED** (exp. Dec 2016) by AHA
+- Certified in **Responsible Conduct of Research** for Human Subjects by CITI
 - Trained in Family Health History and Genomics by TAMU CEHD
-- Trained in Blood-borne Pathogens Safety (exp. March 2015)
+- Trained in **Blood-borne Pathogens Safety** (exp. March 2015)
 - Attended National Youth Leadership Training by BSA
 
 ### Languages
 
-- English: Native Speaker
-- Spanish: Limited Working Proficiency
+- **English**: Native Speaker
+- **Spanish**: Limited Working Proficiency
 
 ### Test Scores
 
-PSAT: **210**
-SAT: **1890** {570R, 620M, 700W}
-SAT: **2110** {700R, 710M, 700W}
-ACT: **29** {29E, 32M, 26R, 27S}
-MCAT: **31** {10B, 10P, 11R}
-GRE: 162V, 153M, 4.0W
+- PSAT: **210**
+- SAT: **1890** {570R, 620M, 700W}
+- SAT: **2110** {700R, 710M, 700W}
+- ACT: **29** {29E, 32M, 26R, 27S}
+- MCAT: **31** {10B, 10P, 11R}
+- GRE: 162V, 153M, 4.0W
 
 ## Footer
 
-Last updated: Dec 2024
+Last updated: **Dec 2024**
