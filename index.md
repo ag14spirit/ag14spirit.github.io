@@ -3,9 +3,11 @@ layout: cv
 title: Joshua McKenna's CV
 ---
 
+<!-- @format -->
+
 # Joshua McKenna
 
-**Executive Manager, Technical Operations** at [Grace Bible Church](https://www.grace-bible.org/)
+**Project Manager** at [MediaMerge](https://www.mediamerge.com/)
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/joshuammckenna/">LinkedIn</a>
@@ -20,7 +22,7 @@ title: Joshua McKenna's CV
 
 ## Summary
 
-Experienced business owner with a demonstrated history in individual and family services. Skilled in SEO, Media Production, Social Media, Editing, and Public Speaking. Strong technical arts and design professional with an M.S. in Biomedical Sciences from Texas A&M University College of Veterinary Medicine & Biomedical Sciences.
+Operations team lead and technical project manager with a Master of Science in Biomedical Sciences and more than a decade of related internship, volunteer, and work experience. Leveraging my expertise and experience to effectively cultivate learning organizations and systematically improve outcomes. Diligent worker interested in constant growth and hoping to take on more responsibility as quickly as possible.
 
 ## Employment History
 
@@ -124,6 +126,7 @@ ADMINISTRATIVE ASSISTANT, November 2014 - January 2015
 - Resolved filing discrepancies in over 1,000 patient records
 - Consolidated list of preferred healthcare providers for website
 - Processed and maintained patient test records
+
 Skills: EHR, clinical lab testing, insurance, injections, secretarial
 -->
 
@@ -378,111 +381,81 @@ Skills: management, event planning, training, education, public relations, volun
 
 ## References
 
-Pat Coyle,
-<dfn title="Supervisor">Operations Pastor</dfn> at
-Grace Bible Church in College Station, TX
+Pat Coyle
+<dfn title="Supervisor">Operations Pastor</dfn> at Grace Bible Church in College Station, TX
 
-Amber Roberts,
-<dfn title="Colleague">Creative Director</dfn> at
-Grace Bible Church in College Station, TX
+Amber Roberts
+<dfn title="Former Supervisor">Creative Director</dfn> at Grace Bible Church in College Station, TX
 
-John Stallone, Ph.D.,
-<dfn title="PI">Professor</dfn> at
-Texas A&M University in College Station, TX
+Trey Corry
+<dfn title="Colleague">Executive Pastor</dfn> at Grace Bible Church in College Station, TX
 
-Andrea Hanson,
-<dfn title="Colleague">Doctoral Researcher</dfn> at
-Texas A&M University in College Station, TX
+Joseph Sean Davidson
+<dfn title="Former Supervisor">Communications Director</dfn> at Grace Bible Church in College Station, TX
 
-John Ott, M.D.,
-<dfn title="Supervisor">Physician</dfn> at
-Specialty Healthcare and Wellness in Bellaire, TX
+Michelle Rohrbough
+<dfn title="Colleague">Graphic Designer</dfn> at Grace Bible Church in College Station, TX
 
-Michael Golding, Ph.D.,
-<dfn title="Committee Chair">Assistant Professor</dfn> at
-Texas A&M University in College Station, TX
+John Stallone, Ph.D.
+<dfn title="Principle Investigator">Professor</dfn> at Texas A&M University in College Station, TX
 
-Louise Abbott, D.V.M., Ph.D.,
-<dfn title="Committee Member">Professor</dfn> at
-Texas A&M University in College Station, TX
+Andrea Beck, Ph.D.
+<dfn title="Colleague">Doctoral Researcher</dfn> at Texas A&M University in College Station, TX
 
-Phil Rich,
-<dfn title="Supervisor">Executive Director</dfn> at
-Impact Retreats in College Station, TX
+John Ott, M.D.
+<dfn title="Former Supervisor">Physician</dfn> at Specialty Healthcare and Wellness in Bellaire, TX
 
-## Skills Summary
+Michael Golding, Ph.D.
+<dfn title="Graduate Committee">Assistant Professor</dfn> at Texas A&M University in College Station, TX
 
-Focused and highly motivated biomedical sciences graduate with experience in androgen research, rodent animal handling, course instruction, and research team leadership. Utilizing my background in community health education, fetal and embryo physiology, digital communication and storytelling, medical education, and ex vivo tissues research to develop comprehensive programs based on the employment needs and mission of the agency. I'm an innovative and energetic team player, relationship builder, and highly effective communicator.
+Louise Abbott, D.V.M., Ph.D.
+<dfn title="Graduate Committee">Professor</dfn> at Texas A&M University in College Station, TX
+
+Phil Rich
+<dfn title="Former Supervisor">Executive Director</dfn> at Impact Retreats in College Station, TX
+
+## COMPUTER SOFTWARE
 
 - Windows and Macintosh OS
 - Microsoft Office: Word, Excel, PowerPoint
 - Apple iWorks: Pages, Numbers, Keynote
 - Google Drive: Docs, Sheets, Slides
 - Word processing at 70 wpm keyboarding
-- AdvancedMD by ADP
+- ADP AdvancedMD
 - Intuit QuickBooks
 - Blackboard Course Management System (CMS)
-- MacLab (PowerLab)
+- MacLab
 - Adobe CC: Photoshop, Lightroom, InDesign, Premiere Pro, After Effects
 - Web design: HTML, CSS, JavaScript front-end web development
 - Google Analytics, Webmaster Console, Developer Tools, SEO
-- ProPresenter 6
-- Blackmagic Design ATEM 4K Live Production Switcher
 - Squarespace Content Management System (CMS)
 - Skype, Dropbox, Podio, Slack
-- Experienced in capturing medical histories
-- Experienced in medical procedure and exam assistance
-- Medical terminology and abbreviations
-- HMO referral protocols
-- Patient intake, triage
-- Analog and digital blood pressure assessment
-- Dipstick urinalysis
-- Spirometry, ECG
-- SQ, IM, IP injection
-- Inventory management
-- Workspace maintenance
-- Environmental health
-- Lab quality systems and research QA
-- Aseptic / sterile inoculation
-- Autoclave steam sterilization
-- Bright field light microscopy
-- Micro pipette serial dilution
-- Tail cuff plethysmography
-- Krebs-Henseleit ex vivo tissue mounting
-- Gel electrophoresis and Western blot
-- Data analysis
-- English (native)
-- Spanish (beginner)
-- Technical / scientific writing
-- Journalism, AP Style, writing / editing
-- RGB / CMYK desktop publishing with soft-proofing
-- Nikon / Canon DSLR cameras
-- Video editing
-- Storytelling / storyboarding
-- HDSLR video production
-- Team workflows
-- Public speaking
-- Journalism
+- Proxmox Virtualization Environment (PVE) 7.0+
 
-### Additional Training
+## Additional Training
 
 Animal Research training specializing in Rat Handling and Techniques. All training was completed at Texas A&M Comparative Medicine Program 2016 through 2016 (8 hrs).
 
+- Certified in Basic Rat Handling and Techniques by TAMU CMP
+
 Basic Life Support (BLS) training specializing in First-Aid CPR/AED. All training was completed through the American Heart Association (AHA) 2014 through 2016 (4 hrs).
+
+- Certified in BLS First-Aid CPR/AED (exp. Dec 2016) by AHA
 
 Responsible Conduct of Research training specializing in Human Subjects. All training was completed at Collaborative Institutional Training Initiative 2013 through 2016 (20 hrs).
 
+- Certified in Responsible Conduct of Research for Human Subjects by CITI
+
 Family Health History and Genomics training specializing in Health Education Counseling. All training was completed at Texas A&M College of Education and Human Development 2013 through 2015 (25 hrs).
+
+- Trained in Family Health History and Genomics by TAMU CEHD
 
 Occupational Health and Safety (OSHA) training in Bloodborne Pathogens. All training was completed at Texas A&M Research Compliance and Biosafety 2013 through 2015 (4 hrs).
 
+- Trained in Blood-borne Pathogens Safety (exp. March 2015)
+
 National Youth Leadership Training specializing in Team Management. All training was completed at Boy Scouts of America 2008 through 2009 (80 hrs).
 
-- Certified in Basic Rat Handling and Techniques by TAMU CMP
-- Certified in **BLS First-Aid CPR/AED** (exp. Dec 2016) by AHA
-- Certified in **Responsible Conduct of Research** for Human Subjects by CITI
-- Trained in Family Health History and Genomics by TAMU CEHD
-- Trained in **Blood-borne Pathogens Safety** (exp. March 2015)
 - Attended National Youth Leadership Training by BSA
 
 ### Languages
@@ -492,12 +465,22 @@ National Youth Leadership Training specializing in Team Management. All training
 
 ### Test Scores
 
-- PSAT: **210**
-- SAT: **1890** {570R, 620M, 700W}
-- SAT: **2110** {700R, 710M, 700W}
-- ACT: **29** {29E, 32M, 26R, 27S}
-- MCAT: **31** {10B, 10P, 11R}
-- GRE: 162V, 153M, 4.0W
+| Test | Score                   |
+| ---- | ----------------------- |
+| PSAT | 210                     |
+| SAT  | 570R, 620M, 700W [1890] |
+| SAT  | 700R, 710M, 700W [2110] |
+| ACT  | 29E, 32M, 26R, 27S [29] |
+| MCAT | 10B, 10P, 11R [31]      |
+| GRE  | 162V, 153M, 4.0W        |
+
+### INTERESTS
+
+- Curriculum design
+- Project management
+- Coaching & goal-setting
+- Fetal physiology
+- Digital photography
 
 ## Footer
 
