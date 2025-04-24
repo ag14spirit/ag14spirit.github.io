@@ -429,15 +429,10 @@ Skills: management, event planning, training, education, public relations, volun
 ## Additional Training
 
 - Certified in Basic Rat Handling and Techniques by TAMU CMP
-
 - Certified in BLS First-Aid CPR/AED (exp. Dec 2016) by AHA
-
 - Certified in Responsible Conduct of Research for Human Subjects by CITI
-
 - Trained in Family Health History and Genomics by TAMU CEHD
-
 - Trained in Blood-borne Pathogens Safety (exp. March 2015)
-
 - Attended National Youth Leadership Training by BSA
 
 ### Languages
