@@ -381,38 +381,27 @@ Skills: management, event planning, training, education, public relations, volun
 
 ## References
 
-Pat Coyle
-<dfn title="Supervisor">Operations Pastor</dfn> at Grace Bible Church in College Station, TX
+<dfn title="Supervisor">Pat Coyle, Operations Pastor</dfn> at Grace Bible Church in College Station, TX
 
-Amber Roberts
-<dfn title="Former Supervisor">Creative Director</dfn> at Grace Bible Church in College Station, TX
+<dfn title="Former Supervisor">Amber Roberts, Creative Director</dfn> at Grace Bible Church in College Station, TX
 
-Trey Corry
-<dfn title="Colleague">Executive Pastor</dfn> at Grace Bible Church in College Station, TX
+<dfn title="Colleague">Trey Corry, Executive Pastor</dfn> at Grace Bible Church in College Station, TX
 
-Joseph Sean Davidson
-<dfn title="Former Supervisor">Communications Director</dfn> at Grace Bible Church in College Station, TX
+<dfn title="Former Supervisor">Joseph Sean Davidson, Communications Director</dfn> at Grace Bible Church in College Station, TX
 
-Michelle Rohrbough
-<dfn title="Colleague">Graphic Designer</dfn> at Grace Bible Church in College Station, TX
+<dfn title="Colleague">Michelle Rohrbough, Graphic Designer</dfn> at Grace Bible Church in College Station, TX
 
-John Stallone, Ph.D.
-<dfn title="Principle Investigator">Professor</dfn> at Texas A&M University in College Station, TX
+<dfn title="Principle Investigator">John Stallone, Ph.D., Professor</dfn> at Texas A&M University in College Station, TX
 
-Andrea Beck, Ph.D.
-<dfn title="Colleague">Doctoral Researcher</dfn> at Texas A&M University in College Station, TX
+<dfn title="Colleague">Andrea Beck, Ph.D., Doctoral Researcher</dfn> at Texas A&M University in College Station, TX
 
-John Ott, M.D.
-<dfn title="Former Supervisor">Physician</dfn> at Specialty Healthcare and Wellness in Bellaire, TX
+<dfn title="Former Supervisor">John Ott, M.D., Physician</dfn> at Specialty Healthcare and Wellness in Bellaire, TX
 
-Michael Golding, Ph.D.
-<dfn title="Graduate Committee">Assistant Professor</dfn> at Texas A&M University in College Station, TX
+<dfn title="Graduate Committee">Michael Golding, Ph.D., Assistant Professor</dfn> at Texas A&M University in College Station, TX
 
-Louise Abbott, D.V.M., Ph.D.
-<dfn title="Graduate Committee">Professor</dfn> at Texas A&M University in College Station, TX
+<dfn title="Graduate Committee">Louise Abbott, D.V.M., Ph.D., Professor</dfn> at Texas A&M University in College Station, TX
 
-Phil Rich
-<dfn title="Former Supervisor">Executive Director</dfn> at Impact Retreats in College Station, TX
+<dfn title="Former Supervisor">Phil Rich, Executive Director</dfn> at Impact Retreats in College Station, TX
 
 ## COMPUTER SOFTWARE
 
@@ -430,31 +419,19 @@ Phil Rich
 - Google Analytics, Webmaster Console, Developer Tools, SEO
 - Squarespace Content Management System (CMS)
 - Skype, Dropbox, Podio, Slack
-- Proxmox Virtualization Environment (PVE) 7.0+
+- Proxmox Virtualization Environment (PVE)
 
 ## Additional Training
 
-Animal Research training specializing in Rat Handling and Techniques. All training was completed at Texas A&M Comparative Medicine Program 2016 through 2016 (8 hrs).
-
 - Certified in Basic Rat Handling and Techniques by TAMU CMP
-
-Basic Life Support (BLS) training specializing in First-Aid CPR/AED. All training was completed through the American Heart Association (AHA) 2014 through 2016 (4 hrs).
 
 - Certified in BLS First-Aid CPR/AED (exp. Dec 2016) by AHA
 
-Responsible Conduct of Research training specializing in Human Subjects. All training was completed at Collaborative Institutional Training Initiative 2013 through 2016 (20 hrs).
-
 - Certified in Responsible Conduct of Research for Human Subjects by CITI
-
-Family Health History and Genomics training specializing in Health Education Counseling. All training was completed at Texas A&M College of Education and Human Development 2013 through 2015 (25 hrs).
 
 - Trained in Family Health History and Genomics by TAMU CEHD
 
-Occupational Health and Safety (OSHA) training in Bloodborne Pathogens. All training was completed at Texas A&M Research Compliance and Biosafety 2013 through 2015 (4 hrs).
-
 - Trained in Blood-borne Pathogens Safety (exp. March 2015)
-
-National Youth Leadership Training specializing in Team Management. All training was completed at Boy Scouts of America 2008 through 2009 (80 hrs).
 
 - Attended National Youth Leadership Training by BSA
 
@@ -463,7 +440,7 @@ National Youth Leadership Training specializing in Team Management. All training
 - **English**: Native Speaker
 - **Spanish**: Limited Working Proficiency
 
-### Test Scores
+<!-- ### Test Scores
 
 | Test | Score                   |
 | ---- | ----------------------- |
@@ -472,7 +449,7 @@ National Youth Leadership Training specializing in Team Management. All training
 | SAT  | 700R, 710M, 700W [2110] |
 | ACT  | 29E, 32M, 26R, 27S [29] |
 | MCAT | 10B, 10P, 11R [31]      |
-| GRE  | 162V, 153M, 4.0W        |
+| GRE  | 162V, 153M, 4.0W        | -->
 
 ### INTERESTS
 
@@ -484,4 +461,4 @@ National Youth Leadership Training specializing in Team Management. All training
 
 ## Footer
 
-Last updated: **Dec 2024**
+Last updated: **April 2025**
