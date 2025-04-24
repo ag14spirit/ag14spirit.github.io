@@ -26,9 +26,14 @@ Operations team lead and technical project manager with a Master of Science in B
 
 ## Employment History
 
+### MediaMerge
+
+`May 2025 - present`
+**Project Manager** for [MediaMerge](https://www.mediamerge.com/)
+
 ### Grace Bible Church
 
-`March 2023 - present`
+`March 2023 - May 2025`
 **Executive Manager, Technical Operations** for [Grace Bible Church](https://www.grace-bible.org/)
 
 `May 2020 - April 2023`
