@@ -2,9 +2,9 @@ BEGIN:VCARD
 VERSION:3.0
 N:McKenna;Joshua;;;
 FN:Joshua McKenna
-ORG:Grace Bible Church
-ADR;TYPE=WORK:College Station, Texas
-TITLE:Operations Executive Manager
+ORG:MediaMerge
+ADR;TYPE=WORK:Birmingham, Alabama
+TITLE:Project Manager
 TEL;TYPE=CELL:+17137058482
 TEL;TYPE=WORK:
 TEL;TYPE=HOME:
@@ -12,7 +12,7 @@ TEL;TYPE=MSG:+17137058482
 EMAIL;TYPE=WORK:josh@mckennafam.com
 URL;TYPE=Digital Business Card:https://mcfam.cc/vcard/joshuamckenna
 URL:
-URL;TYPE=Calendar:https://calendar.app.google/dVCkYcrch7U8vVDPA
+URL;TYPE=Calendar:
 URL;TYPE=Behance:https://behance.net/jmckennaphoto
 URL;TYPE=Spotify:https://open.spotify.com/user/1223442712
 URL;TYPE=GitHub:https://github.com/ag14spirit
